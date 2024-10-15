@@ -23,7 +23,7 @@ const Footer = () => {
             <a href="#">
               <FaSquareFacebook
                 size={25}
-                className="text-gray-700 cursor-pointer"
+                className="text-gray-700 cursor-pointer "
               />
             </a>
             <a href="#">
