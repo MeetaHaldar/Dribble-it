@@ -8,7 +8,6 @@ Hello there, This is the clone of the Dribble app.
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Contact](#contact)
 
 ## Introduction
 
@@ -37,7 +36,8 @@ To get started with the portfolio locally, follow these steps:
    git clone https://github.com/MeetaHaldar/Dribble-it.git
    
 2. Navigate to the project directory:
-``` cd Dribble-it
+```
+cd Dribble-it
 ```
 3. Install dependencies:
 ```
