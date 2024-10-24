@@ -16,7 +16,6 @@ This is the Clone of Dribble App, You can clone this repo to your local system a
 ## Features
 
 - Responsive design that works on all devices
-- 
 - Project showcase with links to live demos and source code
 - Contact form to reach me directly
 
